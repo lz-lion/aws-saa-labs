@@ -1,2 +1,2 @@
-# aws-saa-labs
-AWS practice labs
+# aws-labs-SAA
+Lab for SSA
